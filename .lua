@@ -1,5 +1,5 @@
 return {
-  ["Normal"] = {
+  ["Default"] = {
     SkyboxBk = "rbxassetid://91458024",
     SkyboxDn = "rbxassetid://91457980",
     SkyboxFt = "rbxassetid://91458024",
