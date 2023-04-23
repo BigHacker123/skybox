@@ -1,11 +1,11 @@
 return {
   ["Default"] = {
-		SkyboxBk = "rbxasset://textures/sky/sky512_bk.tex"
-		SkyboxDn = "rbxasset://textures/sky/sky512_dn.tex"
-		SkyboxFt = "rbxasset://textures/sky/sky512_ft.tex"
-		SkyboxLf = "rbxasset://textures/sky/sky512_lf.tex"
-		SkyboxRt = "rbxasset://textures/sky/sky512_rt.tex"
-	  SkyboxUp = "rbxasset://textures/sky/sky512_up.tex"
+    SkyboxBk = "rbxasset://textures/sky/sky512_bk.tex"
+    SkyboxDn = "rbxasset://textures/sky/sky512_dn.tex"
+    SkyboxFt = "rbxasset://textures/sky/sky512_ft.tex"
+    SkyboxLf = "rbxasset://textures/sky/sky512_lf.tex"
+    SkyboxRt = "rbxasset://textures/sky/sky512_rt.tex"
+    SkyboxUp = "rbxasset://textures/sky/sky512_up.tex"
   },
   ["Among Us"] = {
     SkyboxBk = "rbxassetid://5752463190",
