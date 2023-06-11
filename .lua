@@ -71,4 +71,12 @@ return {
     SkyboxRt = "rbxassetid://5103948784",
     SkyboxUp = "rbxassetid://5084576400",
   },
+  ["Redshift"] = {
+    SkyboxBk = "rbxassetid://401664839",
+    SkyboxDn = "rbxassetid://401664862",
+    SkyboxFt = "rbxassetid://401664960",
+    SkyboxLf = "rbxassetid://401664881",
+    SkyboxRt = "rbxassetid://401664901",
+    SkyboxUp = "rbxassetid://401664936",
+  },
 }
