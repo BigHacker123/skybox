@@ -8,12 +8,12 @@ return {
     SkyboxUp = "rbxassetid://91458002",
   },
    ["Neptune"] = {
-    SkyboxBk = "rbxassetid://218955819"
-    SkyboxDn = "rbxassetid://218953419"
-    SkyboxFt = "rbxassetid://218954524"
-    SkyboxLf = "rbxassetid://218958493"
-    SkyboxRt = "rbxassetid://218957134"
-    SkyboxUp = "rbxassetid://218950090"
+    SkyboxBk = "rbxassetid://218955819".
+    SkyboxDn = "rbxassetid://218953419".
+    SkyboxFt = "rbxassetid://218954524".
+    SkyboxLf = "rbxassetid://218958493".
+    SkyboxRt = "rbxassetid://218957134".
+    SkyboxUp = "rbxassetid://218950090".
   },
   ["Among Us"] = {
     SkyboxBk = "rbxassetid://5752463190",
