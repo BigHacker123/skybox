@@ -1,13 +1,13 @@
 return {
   ["Default"] = {
-    SkyboxBk = "rbxassetid://91458024",      
-    SkyboxDn = "rbxassetid://91457980",      
-    SkyboxFt = "rbxassetid://91458024",      
-    SkyboxLf = "rbxassetid://91458024",      
-    SkyboxRt = "rbxassetid://91458024",      
+    SkyboxBk = "rbxassetid://91458024",
+    SkyboxDn = "rbxassetid://91457980",
+    SkyboxFt = "rbxassetid://91458024",
+    SkyboxLf = "rbxassetid://91458024",
+    SkyboxRt = "rbxassetid://91458024",
     SkyboxUp = "rbxassetid://91458002",
   },
-   ["Neptune"] = {
+  ["Neptune"] = {
     SkyboxBk = "rbxassetid://218955819",
     SkyboxDn = "rbxassetid://218953419",
     SkyboxFt = "rbxassetid://218954524",
