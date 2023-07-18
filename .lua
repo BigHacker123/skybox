@@ -87,4 +87,12 @@ return {
     SkyboxRt = "rbxassetid://401664901",
     SkyboxUp = "rbxassetid://401664936",
   },
+  ["Blue Stars"] = {
+    SkyboxBk = "rbxassetid://149397684",
+    SkyboxDn = "rbxassetid://149397692",
+    SkyboxFt = "rbxassetid://149397686",
+    SkyboxLf = "rbxassetid://149397697",
+    SkyboxRt = "rbxassetid://149397688",
+    SkyboxUp = "rbxassetid://149397702",
+  },
 }
